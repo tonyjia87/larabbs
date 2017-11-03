@@ -64,8 +64,8 @@ return [
     | ahead and set this to a sensible default for you out of the box.
     |
     */
-
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Shanghai',
+//    'timezone' => 'UTC',
 
     /*
     |--------------------------------------------------------------------------
@@ -78,7 +78,8 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'zh-CN',
+//    'locale' => 'en',
 
     /*
     |--------------------------------------------------------------------------
