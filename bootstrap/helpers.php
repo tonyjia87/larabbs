@@ -6,7 +6,8 @@
  * Time: 下午4:25
  */
 
-function route_class()
-{
+function route_class() {
     return str_replace('.', '-', Route::currentRouteName());
 }
+
+
